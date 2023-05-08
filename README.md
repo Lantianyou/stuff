@@ -18,7 +18,7 @@ experience on mordern App development:
 - Tech stack choice: programming language, dependencies, etc
 - Product development life cycle: layout design, business logic, and features
 
-We believe, as the disruption brought by WFH and AI and headwind from marco economic 
+We believe, as the disruption brought by WFH and AI, combined with headwind from marco economic 
 environment. The traditional software engineer career ladder is coming to an end.
 To become a survior in the future, it is crucially important to demonstrate our 
 capabilities in adapting to the new world.
